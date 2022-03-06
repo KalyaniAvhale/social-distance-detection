@@ -1,0 +1,5 @@
+# ignore mp4
+*.mp4
+
+#igonore 
+*.weights

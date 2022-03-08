@@ -33,15 +33,19 @@ $  python social_distance_detection.py --input TestVideo.mp4
 
 ## Steps involved in Social Distance detection task
 
-![image](res\flowchart.png)
+![image](https://github.com/KalyaniAvhale/social-distance-detection/blob/main/res/flowchart.png)
 
 
 ## Screenshots 
 
-- Input
-![image](res\input_screen_img.png)
+##### Input
 
-![image](res\output_screen_img.png)
+![image](https://github.com/KalyaniAvhale/social-distance-detection/blob/main/res/input_screen_img.png)
+
+
+##### Output 
+
+![image](https://github.com/KalyaniAvhale/social-distance-detection/blob/main/res/output_screen_img.png)
 
 
 #### [Video Demo](https://youtu.be/VKjS9BR-uQw)

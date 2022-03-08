@@ -23,6 +23,7 @@ $ cd social-distance-detection
 ```bash
 $ pip install -r requirements.txt 
 ```
+Before running the project make sure to add [yolov3.weights](https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT) to yolo-coco dir.
 
 3. Run social_distance_detection.py file (input will be webcam by default to input local file use --input TestVideo.mp4)
 ```bash
@@ -30,3 +31,22 @@ $  python social_distance_detection.py --input TestVideo.mp4
 ```
 
 
+## Steps involved in Social Distance detection task
+
+![image](res\flowchart.png)
+
+
+## Screenshots 
+
+- Input
+![image](res\input_screen_img.png)
+
+![image](res\output_screen_img.png)
+
+
+#### [Video Demo](https://youtu.be/VKjS9BR-uQw)
+
+
+
+
+##### :wave: THANKYOU!!
